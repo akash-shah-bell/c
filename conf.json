@@ -1,12 +1,5 @@
 {
-  "bellAliant": {
-    "redirectUrlPipelineId": "2005239267",
-    "domain": "aliant-dev",
-    "clientId": "bhpvQEhxk2DdQjoj7sWeZQ5ZQiTFKuy8"
-  },
-  "project1": {
-    "redirectUrlPipelineId": "2005239267",
-    "domain": "project1-dev",
-    "clientId": "q5gHKHYJnru4lC5egJItoeFH9PuyMR4X"
-  }
+  "redirectUrlPipelineId": "2005239267",
+  "domain": "project1-dev",
+  "clientId": "q5gHKHYJnru4lC5egJItoeFH9PuyMR4X"
 }
