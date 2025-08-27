@@ -1,5 +1,8 @@
 {
-  "redirectUrlPipelineId": "2005239267",
-  "domain": "aliant-dev",
-  "clientId": "bhpvQEhxk2DdQjoj7sWeZQ5ZQiTFKuy8"
+  "auth0": {
+    "redirectUrlPipelineId": "2005239267",
+    "domain": "aliant-dev",
+    "clientId": "bhpvQEhxk2DdQjoj7sWeZQ5ZQiTFKuy8"
+  },
+  "useMockApis": true
 }
