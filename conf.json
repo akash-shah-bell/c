@@ -1,7 +1,7 @@
 {
   "auth0": {
     "redirectUrlPipelineId": "2005239267",
-    "domain": "aliant-dev",
+    "domain": "dev-aliant",
     "clientId": "bhpvQEhxk2DdQjoj7sWeZQ5ZQiTFKuy8"
   },
   "useMockApis": true
