@@ -4,5 +4,5 @@
     "domain": "dev-aliant",
     "clientId": "bhpvQEhxk2DdQjoj7sWeZQ5ZQiTFKuy8"
   },
-  "useMockApis": false
+  "useMockApis": true
 }
